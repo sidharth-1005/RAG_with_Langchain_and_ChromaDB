@@ -1,0 +1,3 @@
+-> The original code had outdated LangChain imports that I fixed
+-> Replaced OpenAI embeddings with a free local HuggingFace model
+-> Set up Ollama to run the LLM locally instead of using paid APIs
